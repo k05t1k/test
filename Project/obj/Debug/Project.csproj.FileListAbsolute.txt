@@ -1,0 +1,12 @@
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\bin\Debug\PasswordValidation.dll
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\bin\Debug\PasswordValidation.pdb
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\obj\Debug\PasswordValidation.dll
+C:\Users\noexcept\Desktop\PasswordValidation-master\PasswordValidation\obj\Debug\PasswordValidation.pdb
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\bin\Debug\PasswordValidation.dll
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\bin\Debug\PasswordValidation.pdb
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\obj\Debug\PasswordValidation.dll
+C:\Users\noexcept\Desktop\PasswordValidation-master\Project\obj\Debug\PasswordValidation.pdb
